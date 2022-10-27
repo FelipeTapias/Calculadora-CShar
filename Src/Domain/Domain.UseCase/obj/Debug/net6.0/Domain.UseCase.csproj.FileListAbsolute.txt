@@ -1,0 +1,15 @@
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\bin\Debug\net6.0\Domain.UseCase.deps.json
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\bin\Debug\net6.0\Domain.UseCase.dll
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\bin\Debug\net6.0\Domain.UseCase.pdb
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\bin\Debug\net6.0\Domain.Models.dll
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\bin\Debug\net6.0\Domain.Models.pdb
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\obj\Debug\net6.0\Domain.UseCase.csproj.AssemblyReference.cache
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\obj\Debug\net6.0\Domain.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\obj\Debug\net6.0\Domain.UseCase.AssemblyInfoInputs.cache
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\obj\Debug\net6.0\Domain.UseCase.AssemblyInfo.cs
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\obj\Debug\net6.0\Domain.UseCase.csproj.CoreCompileInputs.cache
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\obj\Debug\net6.0\Domain.UseCase.csproj.CopyComplete
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\obj\Debug\net6.0\Domain.UseCase.dll
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\obj\Debug\net6.0\refint\Domain.UseCase.dll
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\obj\Debug\net6.0\Domain.UseCase.pdb
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.UseCase\obj\Debug\net6.0\ref\Domain.UseCase.dll

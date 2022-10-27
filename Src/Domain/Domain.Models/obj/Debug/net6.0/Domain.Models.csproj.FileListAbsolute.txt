@@ -1,0 +1,12 @@
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\bin\Debug\net6.0\Domain.Models.deps.json
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\bin\Debug\net6.0\Domain.Models.dll
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\bin\Debug\net6.0\Domain.Models.pdb
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\obj\Debug\net6.0\Domain.Models.csproj.AssemblyReference.cache
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\obj\Debug\net6.0\Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\obj\Debug\net6.0\Domain.Models.AssemblyInfoInputs.cache
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\obj\Debug\net6.0\Domain.Models.AssemblyInfo.cs
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\obj\Debug\net6.0\Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\obj\Debug\net6.0\Domain.Models.dll
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\obj\Debug\net6.0\refint\Domain.Models.dll
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\obj\Debug\net6.0\Domain.Models.pdb
+C:\Users\atapias\source\repos\BackCalculadora\Src\Domain\Domain.Models\obj\Debug\net6.0\ref\Domain.Models.dll
